@@ -49,14 +49,16 @@ h3 {
   color: white;
   display: flex;
   justify-content: center;
+  margin-left: 38px;
+}
+
+ol {
+  display: flex;
+  justify-content: center;
 }
 
 ol > li {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100px;
-  margin-left: 660px;
+width: 55px;
 }
 
 a {
