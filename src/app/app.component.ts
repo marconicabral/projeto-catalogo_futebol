@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {HomeComponent} from '../app/home/home.component'
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Primeiro_Projeto';
+  logo: string = "../assets/imgs/logo.png"
 }

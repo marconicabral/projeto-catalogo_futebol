@@ -1,0 +1,19 @@
+.produtos {
+  display: inline-block;
+  border: 4px solid rgb(111, 110, 110);
+  color: white;
+  width: 305px;
+  height: 363px;
+  margin-left: 35px;
+  margin-top: 20px;
+}
+
+.produtos > img {
+  max-width: 100%;
+}
+
+.produtos > p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

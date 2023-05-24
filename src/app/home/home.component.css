@@ -1,0 +1,9 @@
+h1 {
+  color: white;
+  font-size: 80px;
+  margin-bottom: -245px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 58px;
+}
